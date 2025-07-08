@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498858755808",
+    "project_id": "arvr-apk",
+    "storage_bucket": "arvr-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498858755808:android:b663bf8e43ff5d4631b285",
+        "android_client_info": {
+          "package_name": "com.example.arvr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMZIcfKoCq2TygNJPyGyFw3gs6stggKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
